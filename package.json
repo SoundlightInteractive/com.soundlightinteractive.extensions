@@ -1,0 +1,13 @@
+{
+  "name": "com.soundlightinteractive.extensions",
+  "displayName": "Soundlight Interactive Extensions Package",
+  "version": "0.1.1",
+  "unity": "2022.3",
+  "author": "Soundlight Interactive",
+  "description": "This is an extensions package to make easy some usually using classes!",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoundlightInteractive/com.soundlightinteractive.extensions.git"
+  }
+}
